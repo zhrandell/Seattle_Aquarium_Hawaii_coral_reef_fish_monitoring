@@ -7,6 +7,6 @@ This repository contains all code and data associated with "A novel underwater s
 </p>
 
 <p float="left">
-  <img src="photos/diveteam.png" width="400" />
-  <img src="photos/survey.png" width="400" /> 
+  <img src="photos/dive_team.png" width="500" />
+  <img src="photos/survey.png" width="500" /> 
 </p>
